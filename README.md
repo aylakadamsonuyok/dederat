@@ -1,0 +1,2 @@
+# dederat
+Discord based DedeRAT
