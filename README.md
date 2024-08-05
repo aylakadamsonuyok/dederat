@@ -1,12 +1,3 @@
-
-# DedeRAT
-
-This RAT made inspired by Dede Korkut from Turkish mitology. My first RAT project. I hope you will like this.
-
-# Installation
-
-
-
 # DedeRAT
 
 This RAT made inspired by Dede Korkut from Turkish mitology. My first RAT project. I hope you will like this.
